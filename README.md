@@ -6,7 +6,7 @@ I create things that I'd enjoy using myself.
 
 My main flow includes Rust, C++, Microcontrollers, and Nix.
 
-My pin projects are many, though my favorite is Homsdice.
+My pin projects are many, though my favorite is [Homsdice](https://github.com/kroussekax/homsdiceS).
 
 **Fun Facts**:
 
